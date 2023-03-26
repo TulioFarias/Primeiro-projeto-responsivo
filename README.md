@@ -9,4 +9,4 @@
 <p>Esse foi o meu primeiro projeto responsivo, com algumas mudanças no layout final na versão mobile. :man_technologist:
 
 
-<img src"https://github.com/TulioFarias/projeto-easy-shopping/blob/master/img/projetocss.png?raw=true" alt="foto-projeto">
+<img src="https://github.com/TulioFarias/projeto-easy-shopping/blob/master/img/projetocss.png?raw=true" alt="foto-projeto">
